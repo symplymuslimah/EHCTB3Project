@@ -144,10 +144,17 @@ span {
 }
 
 
-.image-list {
+.image-list .pp {
   
     visibility: hidden;
 }
+.image-list .ff{
+    position: relative;
+    height: 17rem;
+    width: 29rem;
+    top: -31rem;
+    margin-bottom: 3rem;
+  }
 
 .hero .content{
     font-size: 2.5rem;
